@@ -1,0 +1,18 @@
+{
+    "program_name": "superbet",
+    "scopes": [
+        "superbet.ro",
+        "superbet.rs"
+    ],
+    "ooscopes": [
+        "x.superbet.ro"
+    ],
+    "config": {
+        "providers": [
+            "crtsh",
+            "subfinder",
+            "abuseipdb",
+            "wayback"
+        ]
+    }
+}

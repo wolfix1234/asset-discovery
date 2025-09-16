@@ -1,0 +1,18 @@
+{
+    "program_name": "voorivexAcademy",
+    "scopes": [
+        "voorivex.academy",
+        "voorivex-lab.online"
+    ],
+    "ooscopes": [
+        "cdn.voorivex.academy"
+    ],
+    "config": {
+        "providers": [
+            "crtsh",
+            "subfinder",
+            "abuseipdb",
+            "wayback"
+        ]
+    }
+}

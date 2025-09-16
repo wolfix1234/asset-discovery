@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+psycopg2
+temp
+mongoengine
+python-dotenv
+tldextract

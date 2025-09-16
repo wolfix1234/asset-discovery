@@ -1,0 +1,17 @@
+{
+    "program_name": "icollab",
+    "scopes": [
+        "icollab.info"
+    ],
+    "ooscopes": [
+        "x.icollab.info"
+    ],
+    "config": {
+        "providers": [
+            "crtsh",
+            "subfinder",
+            "abuseipdb",
+            "wayback"
+        ]
+    }
+}
