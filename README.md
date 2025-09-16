@@ -1,5 +1,5 @@
 # watchtower
-welcome to my watchtower :)
+welcome to my watchtower :) this is a crawler for bug bounty for finding some asset
 
 ## setup the watch
 1. inside the database folder run `docker compose up -d`
